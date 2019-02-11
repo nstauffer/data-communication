@@ -1,6 +1,8 @@
 # Communicating Ecological Data With Land Managers: Lessons Learned
 This poster summarizes the work and efforts to share ecological data by the national Assessment Inventory and Monitoring (AIM) team formed from a partnership between the Bureau of Land Management (BLM), the United States Department of Agriculture Agricultural Research Service (ARS), and the National Aquatic Monitoring Center (NAMC).
 
+For more information, contact Nelson Stauffer at nelson.stauffer@ars.usda.gov.
+
 ## Guiding Principles
 The guiding principles applied to any presentation of data are:
 * **Clarity**: Figures should be parsable at a glance or with minimal explanatory text.
